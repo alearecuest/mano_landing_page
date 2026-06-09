@@ -1,10 +1,10 @@
-# 🎨 Landing Page - María Noel Viera
+# Landing Page - María Noel Viera
 
 Sitio web profesional para María Noel Viera, diseñadora de marcas y especialista en marketing digital.
 
 ---
 
-## 📋 Tabla de Contenidos
+## Tabla de Contenidos
 
 1. [Instalación](#instalación)
 2. [Cómo ejecutar el proyecto](#cómo-ejecutar-el-proyecto)
@@ -17,7 +17,7 @@ Sitio web profesional para María Noel Viera, diseñadora de marcas y especialis
 
 ---
 
-## 🚀 Instalación
+## Instalación
 
 ### Requisitos Previos
 
@@ -44,7 +44,7 @@ npm install react-icons
 
 ---
 
-## ⚙️ Cómo ejecutar el proyecto
+## Cómo ejecutar el proyecto
 
 **Para desarrollo:**
 ```bash
@@ -62,7 +62,7 @@ Los archivos compilados estarán en la carpeta `/build`
 
 ---
 
-## 🎯 Personalización Completa
+## Personalización Completa
 
 ### Ubicación de Archivos Editables
 
@@ -98,9 +98,9 @@ mano_landing_page/
 
 ---
 
-## 📝 Modificaciones por Sección
+## Modificaciones por Sección
 
-### 1️⃣ LOGO Y BRANDING
+### LOGO Y BRANDING
 
 #### Cambiar el logo
 
@@ -123,7 +123,7 @@ mano_landing_page/
 
 ---
 
-### 2️⃣ NAVEGACIÓN (Header)
+### NAVEGACIÓN (Header)
 
 **Archivo:** `src/components/Navigation.jsx`
 
@@ -158,7 +158,7 @@ Para agregar un nuevo item:
 
 ---
 
-### 3️⃣ SECCIÓN HERO (Inicio)
+### SECCIÓN HERO (Inicio)
 
 **Archivo:** `src/components/Hero.jsx`
 
@@ -218,7 +218,7 @@ src="/perfil.jpg"
 
 ---
 
-### 4️⃣ SECCIÓN SOBRE MÍ
+### SECCIÓN SOBRE MÍ
 
 **Archivo:** `src/components/About.jsx`
 
@@ -309,7 +309,7 @@ src="/foto_sobre_mi.jpg"
 
 ---
 
-### 5️⃣ SECCIÓN SERVICIOS
+### SECCIÓN SERVICIOS
 
 **Archivo:** `src/components/Services.jsx`
 
@@ -364,7 +364,7 @@ FiCamera         // Cámara/Fotografía
 
 ---
 
-### 6️⃣ SECCIÓN PORTFOLIO
+### SECCIÓN PORTFOLIO
 
 **Archivo:** `src/components/Portfolio.jsx`
 
@@ -417,7 +417,7 @@ const categories = [
 
 ---
 
-### 7️⃣ SECCIÓN PROCESO
+### SECCIÓN PROCESO
 
 **Archivo:** `src/components/Process.jsx`
 
@@ -447,7 +447,7 @@ const steps = [
 
 ---
 
-### 8️⃣ SECCIÓN TESTIMONIOS
+### SECCIÓN TESTIMONIOS
 
 **Archivo:** `src/components/Testimonials.jsx`
 
@@ -487,7 +487,7 @@ const testimonials = [
 
 ---
 
-### 9️⃣ SECCIÓN CONTACTO
+### SECCIÓN CONTACTO
 
 **Archivo:** `src/components/Contact.jsx`
 
@@ -594,7 +594,7 @@ const handleSubmit = (e) => {
 
 ---
 
-### 🔟 SECCIÓN FOOTER
+### SECCIÓN FOOTER
 
 **Archivo:** `src/components/Footer.jsx`
 
@@ -649,7 +649,7 @@ Reemplaza con enlaces reales a tus documentos.
 
 ---
 
-## 🎨 Cambios de Diseño
+## Cambios de Diseño
 
 ### Colores Principales
 
@@ -742,7 +742,7 @@ Puedes modificar:
 
 ---
 
-## 📱 Responsive Design
+## Responsive Design
 
 El sitio ya es completamente responsivo. Los breakpoints están definidos en cada CSS:
 
@@ -762,7 +762,7 @@ El sitio ya es completamente responsivo. Los breakpoints están definidos en cad
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 ### Opción 1: Netlify (Recomendado - Gratis y fácil)
 
@@ -792,7 +792,7 @@ npx gh-pages -d build
 
 ---
 
-## 📋 Checklist de Personalización
+## Checklist de Personalización
 
 Copia esta lista y marca conforme personalices:
 
@@ -853,7 +853,7 @@ DISEÑO
 
 ---
 
-## 🔧 Troubleshooting
+## Troubleshooting
 
 ### El sitio no carga en localhost
 
@@ -884,23 +884,23 @@ Verifica que el icono exista en https://react-icons.github.io/react-icons/
 
 ---
 
-## 📞 Contacto y Soporte
+## Contacto y Soporte
 
 Para preguntas sobre la página web, contacta a María Noel:
 
-- 📧 Email: maria@example.com
-- 📱 Teléfono: +598 (123) 456-789
-- 📍 Ubicación: Montevideo, Uruguay
+- Email: maria@example.com
+- Teléfono: +598 (123) 456-789
+- Ubicación: Montevideo, Uruguay
 
 ---
 
-## 📄 Licencia
+## Licencia
 
 Este proyecto es de uso exclusivo para María Noel Viera.
 
 ---
 
-## ✨ Versión
+## Versión
 
 **v1.0.0** - Primera versión del sitio web
 
@@ -908,4 +908,3 @@ Este proyecto es de uso exclusivo para María Noel Viera.
 
 ---
 
-**¿Necesitas ayuda?** Revisa esta documentación nuevamente o contacta al desarrollador.
