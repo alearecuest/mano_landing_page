@@ -2,7 +2,6 @@
     "name": "mano-landing-page",
     "version": "1.0.0",
     "description": "Professional landing page for María Noel Vila - Marketing & Brand Design",
-    "homepage": "https://alearecuest.github.io/mano_landing_page/",
     "private": true,
     "dependencies": {
         "react": "^18.2.0",
