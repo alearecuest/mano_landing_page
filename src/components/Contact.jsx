@@ -134,7 +134,7 @@ const Contact = () => {
                   <FaInstagram />
                 </a>
                 <a
-                  href="https://linkedin.com"
+                  href="https://linkedin.com/in/marianoelvila"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="social-link"
