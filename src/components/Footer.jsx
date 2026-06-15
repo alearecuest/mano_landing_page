@@ -157,7 +157,7 @@ const Footer = () => {
       <div className="footer-bottom">
         <div className="footer-bottom-content">
           <p className="footer-copyright">
-            © {currentYear} María Noel Viera. Todos los derechos reservados.
+            © {currentYear} María Noel Vila. Todos los derechos reservados.
           </p>
           <div className="footer-links">
             <a href="#privacy">Política de Privacidad</a>

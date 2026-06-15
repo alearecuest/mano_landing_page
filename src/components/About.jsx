@@ -22,7 +22,7 @@ const About = () => {
           <div className="about-image">
             <img
               src="https://via.placeholder.com/400x400?text=Sobre+Mi"
-              alt="María Noel Viera"
+              alt="María Noel Vila"
             />
           </div>
 

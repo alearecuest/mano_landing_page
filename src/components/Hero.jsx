@@ -39,7 +39,7 @@ const Hero = () => {
           <div className="hero-image">
             <img
               src="https://via.placeholder.com/500x500?text=María+Noel"
-              alt="María Noel Viera"
+              alt="María Noel Vila"
             />
           </div>
         </div>
