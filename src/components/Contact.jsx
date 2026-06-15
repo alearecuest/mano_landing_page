@@ -63,7 +63,6 @@ const Contact = () => {
       message: '',
     });
 
-    // Clear message after 5 seconds
     setTimeout(() => {
       setFormMessage('');
       setFormStatus('');

@@ -34,7 +34,7 @@ const Footer = () => {
         <div className="footer-section">
           <div className="footer-logo">
             <img src="/logo_mano.png" alt="Mano Logo" />
-            <p>María Noel</p>
+            <p>María Noel Vila</p>
           </div>
           <p>
             Diseñadora de marcas y especialista en marketing digital. Transformo
@@ -51,22 +51,13 @@ const Footer = () => {
               <FaInstagram />
             </a>
             <a
-              href="https://linkedin.com"
+              href="https://linkedin.com/in/marianoelvila"
               target="_blank"
               rel="noopener noreferrer"
               className="footer-social-link"
               title="LinkedIn"
             >
               <FaLinkedin />
-            </a>
-            <a
-              href="https://twitter.com"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="footer-social-link"
-              title="Twitter"
-            >
-              <FaTwitter />
             </a>
             <a
               href="https://facebook.com"
